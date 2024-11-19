@@ -1,0 +1,20 @@
+{
+    "TDMAddress": "FOSTDMDEV",
+    "FTPUser": "SUPER.BTE",
+    "FTPPassword": "superbte",
+    "CacheDirectory": "cache",
+    "Environments": {
+        "DEV": {
+            "DOCSP": "$DEVT05.SAFDDDO.DOCSP",
+            "DOCFIC": "$DEVT05.SAFDDDO.DOCFIC"
+        },
+        "RE7": {
+            "DOCSP": "$DEVT05.SAFVDDO.DOCSP",
+            "DOCFIC": "$DEVT05.SAFVDDO.DOCFIC"
+        },
+        "REF": {
+            "DOCSP": "$DEVT05.SAFRDDO.DOCSP",
+            "DOCFIC": "$DEVT05.SAFRDDO.DOCFIC"
+        }
+    }
+}
